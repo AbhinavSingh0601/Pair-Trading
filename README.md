@@ -1,3 +1,5 @@
+_Refer to the BackTesting Report.pdf for more details_
+
 **Title:** Pairs Trading Algorithm for Financial Markets (#FC24OPS2)
 
 **Introduction:**
